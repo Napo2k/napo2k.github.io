@@ -6,3 +6,5 @@ defaults:
     theme: jekyll-theme-hacker
     values:
       layout: "default"
+
+theme: jekyll-theme-hacker
