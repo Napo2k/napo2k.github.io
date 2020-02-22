@@ -3,7 +3,6 @@
 defaults:
   - scope:
     path: "" # an empty string here means all files in the project
-    theme: jekyll-theme-hacker
     values:
       layout: "default"
 
